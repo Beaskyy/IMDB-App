@@ -1,5 +1,5 @@
-import Results from "@/components/Results";
-import { revalidatePath } from "next/cache";
+import Results from "../components/Results";
+
 
 const API_KEY = process.env.API_KEY;
 

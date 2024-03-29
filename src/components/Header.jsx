@@ -1,4 +1,4 @@
-import MenuItem from "@/components/MenuItem";
+import MenuItem from "../components/MenuItem";
 import Link from "next/link";
 import { AiFillHome } from "react-icons/ai";
 import { BsFillInfoCircleFill } from "react-icons/bs";
