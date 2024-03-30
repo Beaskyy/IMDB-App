@@ -16,6 +16,7 @@ export default async function Home({ searchParams }) {
     throw new Error("Failed to fetch data");
   }
   const results = data.results;
+  console.log(resilts)
   return (
     <div>
       <Results results={results} />
